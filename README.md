@@ -10,8 +10,6 @@ A Python-based machine learning project implementing and comparing multiple regr
 - [Dataset](#dataset)
 - [Models Implemented](#models-implemented)
 - [Repository Structure](#repository-structure)
-- [Requirements](#requirements)
-- [Setup & Usage](#setup--usage)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
 
